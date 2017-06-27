@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglifyjs": "^0.6.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.8"
+  }
+}
